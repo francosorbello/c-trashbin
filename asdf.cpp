@@ -1,4 +1,7 @@
+#include <iostream>
+using namespace std;
 int main()
 {
-    print("\nHola mundo\n");    
+    cout << "Hola Mundo!\n";
+    return 0;
 }
